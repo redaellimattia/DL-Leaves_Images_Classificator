@@ -18,12 +18,9 @@ The ultimate model we submitted reached an accuracy of 92.08% on the private tes
 # Group components:
 Group Name:<b> Gamma </b>
 
-
 Gabriele Rivi
 
-
 [Mattia Redaelli](https://github.com/redaellimattia)
-
 
 [Ariel Ratzonel](https://github.com/ArielRatzonel00)
 
