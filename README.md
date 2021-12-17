@@ -11,14 +11,11 @@ The dataset we used was composed of 17728 images, but training with only those r
 
 ## Final Model
 The ultimate model we submitted reached an accuracy of 92.08% on the private test set and was obtained using the technique of _Transfer Learning_; the model was then fine-tuned for two times, with a progressively smaller learning rate. Find more accurate description on the development and the specific details of the models on the attached [document](https://github.com/GabrieleRivi/Leaves_Images_Classificator/blob/main/First_homework_AND2L.pdf).
-<p align=center>
-  <img src="https://user-images.githubusercontent.com/79969755/143881603-65dfdb10-01ff-4967-8626-e853c512929d.jpeg">
-  </p>
 
 # Group components:
 Group Name:<b> Gamma </b>
 
-- Gabriele Rivi
+- [Gabriele Rivi](https://github.com/GabrieleRivi)
 - [Mattia Redaelli](https://github.com/redaellimattia)
 - [Ariel Ratzonel](https://github.com/ArielRatzonel00)
 
