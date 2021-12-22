@@ -1,7 +1,7 @@
 # Leaves Images Classificator
 ## Description of the problem
-This small project was performed as an assignment from the course of _Artificial Neural Networks & Deep Learning_ and it's part of the exam. 
-The task was to develop a model for Image Classification and to train it to recognize between 14 classes of leaves, as in the example below.
+This small project was performed as an assignment for the course of _Artificial Neural Networks & Deep Learning_ and it's part of the exam. 
+The task was to develop a model for Image Classification and to train it to distinguis between 14 classes of leaves, as in the example below.
 <p align=center>
   <img width="412" alt="Schermata 2021-11-29 alle 14 37 38" src="https://user-images.githubusercontent.com/79969755/143877722-613956ca-cdd1-4ce9-be17-075853540133.png">
 </p>
