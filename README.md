@@ -1,4 +1,4 @@
-# Leaves Images Classificator
+# DL - Leaves Images Classificator
 ## Description of the problem
 This small project was performed as an assignment for the course of _Artificial Neural Networks & Deep Learning_ and it's part of the exam. 
 The task was to develop a model for Image Classification and to train it to distinguis between 14 classes of leaves, as in the example below.
